@@ -1,0 +1,10 @@
+{
+    "name": "siberiandev/quickadd",
+    "description": "Add products to cart and go to checkout in just one link",
+    "require": {
+        "php": "~7.0.0",
+        "magento2": "~2.0.0"
+    },
+    "type": "magento2-module",
+    "version": "1.0"
+}
